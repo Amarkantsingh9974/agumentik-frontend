@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+    font-family: "urbanist" , sans-serif;
+
+}
+.nav-link{
+    color: white;
+}
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  .bg-main {
+    background-image: url('bg.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  
